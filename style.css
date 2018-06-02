@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #EFFFE9;
+  background-color: #FFFFF3;
 }
 
 .navigation {
@@ -30,13 +30,13 @@ body {
   font-size: 2em;
   display: block;
   padding: 0.5em;
-  color: #2EC4B6;
+  color: #566270;
   flex-grow: 1;
-  border-bottom: 5px solid #EFFFE9;
+  border-bottom: 5px solid #FFFFF3;
 }
 
 .navigation a:hover {
-  border-bottom: 5px solid #2EC4B6;
+  border-bottom: 5px solid #566270;
 }
 
 @media all and (max-width: 600px) {
@@ -72,5 +72,5 @@ h1 {
   line-height: 1;
   padding: 0;
   margin-top: 20vh;
-  color: #011627;
+  color: #A593E0;
 }
